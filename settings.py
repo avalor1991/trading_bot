@@ -1,4 +1,4 @@
-API_KEY = '67070b9104c0cc000193c623'
-API_SECRET = 'e362eb7b-209c-4d63-b841-5db5691bd028'
-API_PASSPHRASE = 'avalor335620cash'
+API_KEY = 'xxxxxx'
+API_SECRET = 'xxxxxxxx'
+API_PASSPHRASE = 'xxxxxxxxxxx'
 API_BASE_URL = 'https://api.kucoin.com'
